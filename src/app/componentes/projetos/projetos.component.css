@@ -1,0 +1,19 @@
+.sobre {
+  padding: 11rem;
+  display: flex;
+}
+img {
+  border-radius: 100px;
+  width: 40rem;
+  height: 30rem;
+}
+
+h1 {
+  text-align: justify;
+  font-family: arial, sans-serif;
+  letter-spacing: 10px;
+  word-spacing: 40px;
+  line-height: 1.6em;
+  text-indent: 50px;
+  padding-top: 5rem;
+}
